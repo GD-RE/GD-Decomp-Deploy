@@ -1,3 +1,4 @@
+import sys
 import json
 from enum import IntEnum
 from pathlib import Path
@@ -9,7 +10,6 @@ from Cython.CodeWriter import LinesResult
 from pybroma import BromaTreeVisitor
 from pybroma.PyBroma import (Class, FunctionBindField, MemberField,
                              MemberFunctionProto, PadField, Root)
-import sys
 
 # TODO Supply with enums...
 

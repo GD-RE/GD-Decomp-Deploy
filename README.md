@@ -17,7 +17,7 @@ As a Dispace freak myself only Python and a C++ compiler is ever required.
 
 ## Motives
 
-- The Possibility (or Threat) of Fast Releases by Robtop.
+- The Possibility and Threat of Fast Releases by Robtop.
 
 - Keeping functions in `.cpp` files in alphabetical order... even when some functions are incomplete and have no return types yet...
 
@@ -32,7 +32,7 @@ As a Dispace freak myself only Python and a C++ compiler is ever required.
 
 # How to Use 
 
-You will need python 3.8 or higher and an msvc compiler for compiling PyBroma (another external python library that I made)
+You will need python 3.8 or higher and an msvc compiler (or a GCC Compiler if your using Linux) for compiling PyBroma (another external python library that I made)
 
 ```
 pip install -r reqiurements.txt
